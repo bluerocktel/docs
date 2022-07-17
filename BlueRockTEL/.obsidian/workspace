@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "e4c0d790643327f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4b8ab690c341c44",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "FR/Factures/Ajouter un visuel.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ff7c349d7236751",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd601139262ddb9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81cb837c7c909340",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2ef5b65fbb76810",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3083f3b0c35c943",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e02d5ced86102d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c262150a28fb4fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FR/Factures/Ajouter un visuel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e4b8ab690c341c44",
+  "lastOpenFiles": [
+    "FR/Installations/Installations types.md",
+    "FR/Installations/Emails types (variables).md",
+    "FR/Installations/Emails types.md",
+    "FR/Dossiers/Le dossier de facturation.md",
+    "FR/Articles/Familles et sous-familles.md",
+    "FR/Articles/Bundles.md",
+    "EN/About.md",
+    "FR/À propos.md",
+    "01..md",
+    "FR/01. Articles (Catalogue)/01. Articles.md"
+  ]
+}
